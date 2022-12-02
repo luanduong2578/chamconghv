@@ -1,0 +1,32 @@
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.exe.config
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.exe
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.pdb
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.csprojResolveAssemblyReference.cache
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.Form1.resources
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.Properties.Resources.resources
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.csproj.GenerateResource.Cache
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.exe
+c:\users\lua\documents\visual studio 2015\Projects\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.pdb
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.exe.config
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.exe
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.pdb
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.exe
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.pdb
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\EntityFramework.dll
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\EntityFramework.SqlServer.dll
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\Oracle.DataAccess.dll
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\EntityFramework.xml
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\EntityFramework.SqlServer.xml
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.csprojResolveAssemblyReference.cache
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.fNgayCC.resources
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.Properties.Resources.resources
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.csproj.GenerateResource.Cache
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.fdiemdanh.resources
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.fMatkhau.resources
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.TrustInfo.xml
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.exe.manifest
+D:\APP\CHAMCONGHV\CHAMCONGHV\bin\Debug\CHAMCONGHV.application
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.exe.manifest
+D:\APP\CHAMCONGHV\CHAMCONGHV\obj\Debug\CHAMCONGHV.application
